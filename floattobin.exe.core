@@ -1,0 +1,18 @@
+[main] floattobin 1000 (0) exception: trapped!
+[main] floattobin 1000 (0) exception: code 0xC0000005 at 0x4402
+[main] floattobin 1000 (0) exception: ax 0x0 bx 0x244FF20 cx 0x1 dx 0x61061340
+[main] floattobin 1000 (0) exception: si 0x0 di 0x401000 bp 0x244FF48 sp 0x244FF08
+[main] floattobin 1000 (0) exception: exception is: STATUS_ACCESS_VIOLATION
+[main] floattobin 1000 (0) stack: Stack trace:
+[main] floattobin 1000 (0) stack: frame 0: sp = 0x244F918, pc = 0x6100A2C3
+[main] floattobin 1000 (0) stack: frame 1: sp = 0x244F954, pc = 0x77A3B652
+[main] floattobin 1000 (0) stack: frame 2: sp = 0x244F978, pc = 0x77A3B624
+[main] floattobin 1000 (0) stack: frame 3: sp = 0x244FA40, pc = 0x77A28E7F
+[main] floattobin 1000 (0) stack: frame 4: sp = 0x244FF48, pc = 0x61004420
+[main] floattobin 1000 (0) stack: frame 5: sp = 0x244FF54, pc = 0x4015EE
+[main] floattobin 1000 (0) stack: frame 6: sp = 0x244FF64, pc = 0x40103A
+[main] floattobin 1000 (0) stack: frame 7: sp = 0x244FF80, pc = 0x747138F4
+[main] floattobin 1000 (0) stack: frame 8: sp = 0x244FF94, pc = 0x77A15DE3
+[main] floattobin 1000 (0) stack: frame 9: sp = 0x244FFDC, pc = 0x77A15DAE
+[main] floattobin 1000 (1) stack: frame 10: sp = 0x244FFEC, pc = 0x0
+[main] floattobin 1000 (0) stack: End of stack trace
